@@ -1,10 +1,10 @@
-import React from 'react'; // Must be imported for webpack to work
+import React from 'react';
 import './App.css';
 
 function App() {
   return (
     <div className="HeaderApp">
-      <div>Header</div>
+      <div>Header From Header APP</div>
     </div>
   );
 }
